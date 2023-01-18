@@ -27,3 +27,12 @@ else
 // if (max < c) max = c;
 
 // Console.WriteLine(max);
+
+// или
+// if (a >= b && a >= c)
+//     Console.WriteLine(a);
+// else if (b >= a && b >= c)
+//     Console.WriteLine(a);
+// else
+//     Console.WriteLine(c);
+ 
